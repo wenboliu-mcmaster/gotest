@@ -38,7 +38,7 @@ func deleteMovie(w http.ResponseWriter, r *http.Request) {
 	}
 }
 func getMovie(w http.ResponseWriter, r *http.Request) {
-	fmt.Println("this is to get one movie")
+	fmt.Println("this is to get one movie222")
 }
 func createMovie(w http.ResponseWriter, r *http.Request) {
 	fmt.Println("this is to create a movie")
